@@ -6,4 +6,5 @@
 <code> cd easyapache </code><br>
 <h2>Uso</h2>
 <code>python3 ./main.py</code><br>
+<code>sh -/clickMe.sh</code>
 
